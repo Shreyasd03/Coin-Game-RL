@@ -1,6 +1,6 @@
 # Coin Game — PPO Reinforcement Learning with Curriculum Training
 
-This project implements a **Proximal Policy Optimization (PPO)** agent that learns to play a custom 2D platformer called **Coin Game**, where the goal is to **collect coins efficiently under time pressure**.
+This project implements a **Proximal Policy Optimization (PPO)** agent that learns to play a custom 2D platformer called **Coin Game**, where the goal is to **collect coins efficiently under time pressure**. The playable version of the game can be found in my Games and Toys repository.
 
 The training process uses **curriculum learning** to automatically scale difficulty as the agent improves — teaching movement, navigation, and multi-platform jumping progressively.  
 It also integrates **skill retention checks** to prevent forgetting earlier abilities as new ones are learned.
