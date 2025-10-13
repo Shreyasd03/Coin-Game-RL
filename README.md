@@ -108,7 +108,7 @@ tensorboard --logdir logs/
 
 Below is a short demo of the trained PPO agent playing the Coin Game. Apologies for the quality.
 
-![PPO Coin Game Demo](./ppo_coin_eval.gif)
+![PPO Coin Game Demo](./CoinGameRec.gif)
 
 ---
 ## Technical Deep Dive
